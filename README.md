@@ -1,1 +1,1 @@
-# jpa-entity-manager
+# jpa-association
