@@ -1,1 +1,1 @@
-# jpa-query-builder
+# jpa-entity-manager
